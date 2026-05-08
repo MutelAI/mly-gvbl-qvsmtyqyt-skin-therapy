@@ -7,14 +7,14 @@
     "available_langs": [
       "he"
     ],
-    "phone": "0543320502",
+    "phone": "",
     "phone_display": "054-332-0502",
     "whatsapp": "972543320502",
     "website": "",
     "rating": 5,
     "reviews_count": 100,
-    "address_he": "Ha-Arava St 6, Petah Tikva",
-    "address_en": "Ha-Arava St 6, Petah Tikva",
+    "address_he": "",
+    "address_en": "",
     "category_he": "קליניקת טיפולי עור",
     "category_en": "Skin care clinic",
     "maps_url": "https://maps.google.com/?q=32.0805665,34.8488809",
@@ -98,7 +98,7 @@
   "sections": [
     {
       "id": "hero",
-      "variant": "R",
+      "variant": "I",
       "visible": true,
       "content": {
         "badge": {
@@ -389,50 +389,65 @@
     {
       "id": "pricing",
       "variant": "",
-      "visible": false,
+      "visible": true,
       "items": []
     },
     {
       "id": "faq",
       "variant": "",
-      "visible": false,
+      "visible": true,
       "items": []
     },
     {
       "id": "team",
       "variant": "",
-      "visible": false,
+      "visible": true,
       "items": []
     },
     {
       "id": "before_after",
       "variant": "",
-      "visible": false,
+      "visible": true,
       "items": []
     },
     {
       "id": "video",
       "variant": "",
-      "visible": false,
+      "visible": true,
       "items": []
     },
     {
       "id": "menu",
       "variant": "B",
-      "visible": false,
+      "visible": true,
       "items": []
     },
     {
       "id": "steps",
       "variant": "",
-      "visible": false,
+      "visible": true,
       "items": []
     },
     {
       "id": "stats",
       "variant": "",
-      "visible": false,
+      "visible": true,
       "items": []
+    },
+    {
+      "id": "banner",
+      "variant": "A",
+      "visible": true
+    }
+  ],
+  "banners": [
+    {
+      "id": "banner-1778218539082",
+      "active": true,
+      "title_he": "מבצעעעעעעעעעעעעעעעעעעעעעעעעעע",
+      "title_en": "מבצעעעעעעעעעעעעעעעעעעעעעעעעעע",
+      "desc_he": "רק היום רק היום",
+      "desc_en": "רק היום רק היום"
     }
   ]
 }
