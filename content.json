@@ -100,6 +100,11 @@
         "fontFamily": "'Heebo', sans-serif",
         "fontWeight": "700",
         "fontSize": "2.25rem"
+      },
+      "#hero > div:nth-of-type(2) > div > div:nth-of-type(1) > p": {
+        "fontFamily": "'Varela Round', sans-serif",
+        "fontSize": "1.875rem",
+        "color": "#1843f2"
       }
     }
   },
