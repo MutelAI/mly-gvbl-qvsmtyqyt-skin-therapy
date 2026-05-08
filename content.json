@@ -432,11 +432,22 @@
       "id": "stats",
       "variant": "",
       "visible": true,
-      "items": []
+      "items": [
+        {
+          "value": "009",
+          "label": "Kקוחות מרוצים",
+          "id": "stats-1778218764706"
+        },
+        {
+          "value": "9000",
+          "label": "מפורסמים שעשו",
+          "id": "stats-1778218772382"
+        }
+      ]
     },
     {
       "id": "banner",
-      "variant": "A",
+      "variant": "D",
       "visible": true
     }
   ],
